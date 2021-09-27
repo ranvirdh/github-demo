@@ -1,7 +1,3 @@
 chageing the file title to check branch updates.
 test file to check git function
 this file is to test disable fast forward merage to main.
-
-=======
-this line is added from remote. 
->>>>>>> d47ef935f6e1ff5e365f1e06bc842f920595ff6f
